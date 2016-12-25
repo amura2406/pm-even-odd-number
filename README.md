@@ -6,5 +6,7 @@ This solution takes O(n) time complexity and O(1) space complexity.
 
 Sample:
 
-`INPUT : 2,4,7,6,1,3,5,4`
-`OUTPUT: 2,4,6,4,7,1,3,5`
+```
+INPUT : 2,4,7,6,1,3,5,4
+OUTPUT: 2,4,6,4,7,1,3,5
+```
